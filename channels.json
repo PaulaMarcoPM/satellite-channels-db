@@ -1,33 +1,4 @@
 [
-{"channel":"MBC 1","satellite":"Nilesat","frequency":"11470","polarity":"V","symbolrate":"27500","fec":"5/6","encryption":"FTA","category":"Entertainment"},
-{"channel":"MBC 2","satellite":"Nilesat","frequency":"11470","polarity":"V","symbolrate":"27500","fec":"5/6","encryption":"FTA","category":"Movies"},
-{"channel":"MBC Drama","satellite":"Nilesat","frequency":"11470","polarity":"V","symbolrate":"27500","fec":"5/6","encryption":"FTA","category":"Drama"},
-{"channel":"MBC Action","satellite":"Nilesat","frequency":"11470","polarity":"V","symbolrate":"27500","fec":"5/6","encryption":"FTA","category":"Movies"},
-{"channel":"Al Jazeera Arabic","satellite":"Nilesat","frequency":"10971","polarity":"V","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"News"},
-{"channel":"Al Arabiya","satellite":"Nilesat","frequency":"12092","polarity":"V","symbolrate":"27500","fec":"5/6","encryption":"FTA","category":"News"},
-{"channel":"CBC Egypt","satellite":"Nilesat","frequency":"11785","polarity":"V","symbolrate":"27500","fec":"5/6","encryption":"FTA","category":"General"},
-{"channel":"ON TV","satellite":"Nilesat","frequency":"10853","polarity":"H","symbolrate":"27500","fec":"5/6","encryption":"FTA","category":"General"},
-{"channel":"DMC","satellite":"Nilesat","frequency":"11449","polarity":"H","symbolrate":"27500","fec":"5/6","encryption":"FTA","category":"General"},
-{"channel":"Al Hayah","satellite":"Nilesat","frequency":"12206","polarity":"V","symbolrate":"27500","fec":"5/6","encryption":"FTA","category":"General"},
-
-{"channel":"France 24 Arabic","satellite":"Hotbird","frequency":"10758","polarity":"V","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"News"},
-{"channel":"BBC Arabic","satellite":"Hotbird","frequency":"12597","polarity":"V","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"News"},
-{"channel":"Dubai TV","satellite":"Hotbird","frequency":"12399","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"General"},
-{"channel":"Abu Dhabi TV","satellite":"Hotbird","frequency":"11747","polarity":"V","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"General"},
-{"channel":"TRT Arabic","satellite":"Hotbird","frequency":"12692","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"News"},
-
-{"channel":"beIN Sports News","satellite":"EsHailSat","frequency":"11547","polarity":"V","symbolrate":"27500","fec":"2/3","encryption":"Encrypted","category":"Sports"},
-{"channel":"beIN Movies 1","satellite":"EsHailSat","frequency":"10730","polarity":"H","symbolrate":"27500","fec":"2/3","encryption":"Encrypted","category":"Movies"},
-{"channel":"beIN Series","satellite":"EsHailSat","frequency":"10810","polarity":"H","symbolrate":"27500","fec":"2/3","encryption":"Encrypted","category":"Series"},
-{"channel":"Al Kass 1","satellite":"EsHailSat","frequency":"10770","polarity":"H","symbolrate":"27500","fec":"2/3","encryption":"FTA","category":"Sports"},
-{"channel":"Al Jazeera Mubasher","satellite":"EsHailSat","frequency":"10971","polarity":"V","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"News"}
-
-  
-{"channel":"OSN Movies Premiere","satellite":"Nilesat","frequency":"11843","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"Encrypted","category":"Movies"},
-{"channel":"OSN Movies Action","satellite":"Nilesat","frequency":"11843","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"Encrypted","category":"Movies"},
-{"channel":"OSN Series First","satellite":"Nilesat","frequency":"11843","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"Encrypted","category":"Series"},
-{"channel":"OSN Discovery","satellite":"Nilesat","frequency":"11843","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"Encrypted","category":"Documentary"},
-
 {"channel":"Rotana Cinema","satellite":"Nilesat","frequency":"12226","polarity":"H","symbolrate":"27500","fec":"5/6","encryption":"FTA","category":"Movies"},
 {"channel":"Rotana Khalijia","satellite":"Nilesat","frequency":"11296","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"Entertainment"},
 {"channel":"Rotana Drama","satellite":"Nilesat","frequency":"11296","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"Drama"},

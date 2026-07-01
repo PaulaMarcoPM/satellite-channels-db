@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "channel":"MBC 1",
+    "satellite":"Nilesat",
+    "frequency":"11470",
+    "polarity":"V",
+    "symbolrate":"27500",
+    "fec":"5/6",
+    "encryption":"FTA",
+    "category":"Entertainment"
+  },
+  {
+    "channel":"France 24 Arabic",
+    "satellite":"Hotbird",
+    "frequency":"10758",
+    "polarity":"V",
+    "symbolrate":"27500",
+    "fec":"3/4",
+    "encryption":"FTA",
+    "category":"News"
+  },
+  {
+    "channel":"beIN Sports News",
+    "satellite":"SuhailSat",
+    "frequency":"11547",
+    "polarity":"V",
+    "symbolrate":"27500",
+    "fec":"2/3",
+    "encryption":"Encrypted",
+    "category":"Sports"
+  }
+]

@@ -21,4 +21,31 @@
 {"channel":"beIN Series","satellite":"EsHailSat","frequency":"10810","polarity":"H","symbolrate":"27500","fec":"2/3","encryption":"Encrypted","category":"Series"},
 {"channel":"Al Kass 1","satellite":"EsHailSat","frequency":"10770","polarity":"H","symbolrate":"27500","fec":"2/3","encryption":"FTA","category":"Sports"},
 {"channel":"Al Jazeera Mubasher","satellite":"EsHailSat","frequency":"10971","polarity":"V","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"News"}
+
+  
+{"channel":"OSN Movies Premiere","satellite":"Nilesat","frequency":"11843","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"Encrypted","category":"Movies"},
+{"channel":"OSN Movies Action","satellite":"Nilesat","frequency":"11843","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"Encrypted","category":"Movies"},
+{"channel":"OSN Series First","satellite":"Nilesat","frequency":"11843","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"Encrypted","category":"Series"},
+{"channel":"OSN Discovery","satellite":"Nilesat","frequency":"11843","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"Encrypted","category":"Documentary"},
+
+{"channel":"Rotana Cinema","satellite":"Nilesat","frequency":"12226","polarity":"H","symbolrate":"27500","fec":"5/6","encryption":"FTA","category":"Movies"},
+{"channel":"Rotana Khalijia","satellite":"Nilesat","frequency":"11296","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"Entertainment"},
+{"channel":"Rotana Drama","satellite":"Nilesat","frequency":"11296","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"Drama"},
+
+{"channel":"National Geographic Abu Dhabi","satellite":"Nilesat","frequency":"11411","polarity":"H","symbolrate":"30000","fec":"3/4","encryption":"FTA","category":"Documentary"},
+{"channel":"Cartoon Network Arabic","satellite":"Nilesat","frequency":"11277","polarity":"V","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"Kids"},
+{"channel":"Spacetoon","satellite":"Nilesat","frequency":"11785","polarity":"V","symbolrate":"27500","fec":"5/6","encryption":"FTA","category":"Kids"},
+
+{"channel":"beIN Sports 1 HD","satellite":"EsHailSat","frequency":"11013","polarity":"H","symbolrate":"27500","fec":"2/3","encryption":"Encrypted","category":"Sports"},
+{"channel":"beIN Sports 2 HD","satellite":"EsHailSat","frequency":"11013","polarity":"H","symbolrate":"27500","fec":"2/3","encryption":"Encrypted","category":"Sports"},
+{"channel":"beIN Sports 3 HD","satellite":"EsHailSat","frequency":"11054","polarity":"H","symbolrate":"27500","fec":"2/3","encryption":"Encrypted","category":"Sports"},
+{"channel":"beIN Sports 4 HD","satellite":"EsHailSat","frequency":"11054","polarity":"H","symbolrate":"27500","fec":"2/3","encryption":"Encrypted","category":"Sports"},
+{"channel":"beIN Sports 5 HD","satellite":"EsHailSat","frequency":"11137","polarity":"V","symbolrate":"27500","fec":"2/3","encryption":"Encrypted","category":"Sports"},
+
+{"channel":"Rai News 24","satellite":"Hotbird","frequency":"11766","polarity":"V","symbolrate":"29900","fec":"3/4","encryption":"FTA","category":"News"},
+{"channel":"TV5 Monde Europe","satellite":"Hotbird","frequency":"10815","polarity":"H","symbolrate":"27500","fec":"5/6","encryption":"FTA","category":"General"},
+{"channel":"Euronews English","satellite":"Hotbird","frequency":"10930","polarity":"H","symbolrate":"30000","fec":"2/3","encryption":"FTA","category":"News"},
+{"channel":"Bloomberg Europe","satellite":"Hotbird","frequency":"12149","polarity":"V","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"Business"},
+{"channel":"Fashion TV","satellite":"Hotbird","frequency":"12322","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"Lifestyle"}
+]
 ]

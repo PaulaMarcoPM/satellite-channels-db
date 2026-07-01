@@ -47,7 +47,7 @@
 {"channel":"Euronews English","satellite":"Hotbird","frequency":"10930","polarity":"H","symbolrate":"30000","fec":"2/3","encryption":"FTA","category":"News"},
 {"channel":"Bloomberg Europe","satellite":"Hotbird","frequency":"12149","polarity":"V","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"Business"},
 {"channel":"Fashion TV","satellite":"Hotbird","frequency":"12322","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"Lifestyle"}
-[
+
   {"channel":"Alhurra Iraq TV HD","satellite":"Nilesat","frequency":"10873","polarity":"V","symbolrate":"27500","fec":"5/6","encryption":"FTA","category":"News"},
   {"channel":"Makkah TV","satellite":"Nilesat","frequency":"12399","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"Religious"},
   {"channel":"DAAWAH TV","satellite":"Nilesat","frequency":"10727","polarity":"H","symbolrate":"27500","fec":"3/4","encryption":"FTA","category":"Religious"},

@@ -1,40 +1,22 @@
-function updateSatChannels() {
-
-  const url = "https://raw.githubusercontent.com/PaulaMarcoPM/satellite-channels-db/main/channels.json";
-
-  const response = UrlFetchApp.fetch(url);
-  const data = JSON.parse(response.getContentText());
-
-  const sheet = SpreadsheetApp.getActiveSpreadsheet()
-      .getSheetByName("SAT_DB");
-
-  sheet.clearContents();
-
-  const headers = [
-    "Channel",
-    "Satellite",
-    "Frequency",
-    "Polarity",
-    "SymbolRate",
-    "FEC",
-    "Encryption",
-    "Category",
-    "Updated"
-  ];
-
-  sheet.appendRow(headers);
-
-  const rows = data.map(ch => [
-    ch.channel,
-    ch.satellite,
-    ch.frequency,
-    ch.polarity,
-    ch.symbolrate,
-    ch.fec,
-    ch.encryption,
-    ch.category,
-    new Date()
-  ]);
-
-  sheet.getRange(2,1,rows.length,9).setValues(rows);
-}
+[
+  {
+    "channel":"MBC 1",
+    "satellite":"Nilesat",
+    "frequency":"11470",
+    "polarity":"V",
+    "symbolrate":"27500",
+    "fec":"5/6",
+    "encryption":"FTA",
+    "category":"Entertainment"
+  },
+  {
+    "channel":"France 24 Arabic",
+    "satellite":"Hotbird",
+    "frequency":"10758",
+    "polarity":"V",
+    "symbolrate":"27500",
+    "fec":"3/4",
+    "encryption":"FTA",
+    "category":"News"
+  }
+]
